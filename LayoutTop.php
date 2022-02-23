@@ -1,0 +1,9 @@
+<?php
+include('Head.php');
+include('dbconnect.php');
+?>
+<body>
+<?php
+include('Header.php');
+include('Navigation.php');
+?>
